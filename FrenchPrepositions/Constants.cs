@@ -36,6 +36,7 @@ public class Constants
         public const string En = "en";
         public const string Vers = "vers";
         public const string AuPresDe = "auprès de";
+        public const string Parmi = "parmi";
     }
 
     public static class Direction
