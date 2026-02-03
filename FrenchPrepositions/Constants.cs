@@ -73,5 +73,6 @@ public class Constants
         public const string Contre = "contre";
         public const string Envers = "envers";
         public const string Selon = "selon";
+        public const string Malgre = "malgré";
     }
 }
