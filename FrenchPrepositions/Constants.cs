@@ -38,6 +38,7 @@ public class Constants
         public const string AuPresDe = "auprès de";
         public const string Parmi = "parmi";
         public const string AutourDe = "autour de";
+        public const string ProcheDe = "proche de";
     }
 
     public static class Direction
