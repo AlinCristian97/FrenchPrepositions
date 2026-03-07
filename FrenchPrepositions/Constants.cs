@@ -39,6 +39,11 @@ public class Constants
         public const string Parmi = "parmi";
         public const string AutourDe = "autour de";
         public const string ProcheDe = "proche de";
+        public const string AuDessusDe = "au-dessus de";
+        public const string EnBasDe = "en bas de";
+        public const string EnMilieuDe = "en milieu de";
+        public const string AInterieurDe = "à l’intérieur de";
+        public const string AExterieurDe = "à l’extérieur de";
     }
 
     public static class Direction
